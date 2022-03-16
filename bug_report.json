@@ -1,0 +1,16 @@
+{
+    "Bag_report": [
+        "Summary",
+        "Project",
+        "Component",
+        "Version",
+        "Severity (Blocker, Critical, Major, Minor, Trivial)",
+        "Pryority (High, Medium, Low)",
+        "Status",
+        "Author",
+        "Steps to Reproduce",
+        "Result",
+        "Expected Result",
+        "Attachment"
+        ]
+}
